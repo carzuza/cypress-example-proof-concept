@@ -1,4 +1,4 @@
-#prueba de concepto usando node y TDD cypress
+# prueba de concepto usando node y TDD cypress
 
 ## 0) Es necesario tener las siguientes dependencias de node, como dependencias de desarrollo:
 
@@ -29,3 +29,9 @@
 ### c) correr las pruebas descritas en test.spec.ts
 
 #### `$ npm run cy:test`
+
+## 2) Fuentes
+
+### https://www.learningcrux.in/course/automated-software-testing-with-cypress-2020-update
+
+### https://www.youtube.com/watch?v=UipIQ81kabs
